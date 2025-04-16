@@ -9,3 +9,5 @@ Functionality of the calendar is primarily for sifting through weeks at a time, 
 Anyways, I had a lot of fun with this because I keep saying I don't like working with GUI's very much; mostly bc of how dangerous they can be to productivity. I can spend 20-30 minutes just on the colors alone, but once I've decided on a color scheme and a layout, I'm pretty much set. 
 
 Be on the look out for the new Beacon Films video on the Hero's Journey. I'll go over this project and others in that video. 
+
+![image](https://github.com/user-attachments/assets/27f1a59a-966a-4dfd-8179-5b5964b3f78b)
